@@ -1,0 +1,5 @@
+workspace {
+  uid = "e8ad73ac-f1b3-4d9e-af69-87addbffaf53"
+  name = "enve8ad73ac-f1b3-4d9e-af69-87addbffaf53"
+  staleStateThresholdMinutes = undefined
+}
